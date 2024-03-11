@@ -15,7 +15,7 @@ JavaScript (jQuery): Adiciona funcionalidades interativas, como rolagem suave pa
 Como Usar
 Clone o repositório para o seu ambiente de desenvolvimento:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/JulioFavaro98/landingPage-adv
 Abra o arquivo index.html em seu navegador para visualizar a página.
 
 Personalização
