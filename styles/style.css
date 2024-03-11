@@ -142,6 +142,18 @@ footer p {
     border-radius: 17px;
 }
 
+::-webkit-scrollbar {
+    width: 12px; 
+}
 
+::-webkit-scrollbar-thumb {
+    background-color: #011A21; 
+    border-radius: 6px; 
+    border: solid #e1bba66e 0.5px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
 
 
